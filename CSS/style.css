@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+.fondo-header {
+  background-color: #381460;
+  font-family: "montserrat", sans-serif;
+}
+.fondo-header .nombre-logo {
+  font-size: 30px;
+  display: inline;
+}
+
+.texto-bienvenida h5 {
+  font-family: "Montserrat", sans-serif;
+}
+.texto-bienvenida p {
+  font-family: "Montserrat", sans-serif;
+}
+
+.que-soy {
+  background-color: #B21F66;
+  width: 100%;
+  font-size: 2rem;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.que-soy .hola {
+  font-family: "montserrat", sans-serif;
+  font-size: 5rem;
+}
+.que-soy span {
+  font-size: 6rem;
+  color: burlywood;
+}
+.que-soy .frase {
+  font-family: "montserrat", sans-serif;
+  font-size: 4rem;
+}
+
+.encontrar {
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #d49ed4;
+}
+.encontrar .texto-encontrar {
+  background-color: #bd6bbd;
+  color: cornsilk;
+  font-family: "Montserrat", sans-serif;
+  font-size: 5rem;
+  margin-top: 30px;
+}
+
+.experiencias {
+  background-color: #de4c8a;
+}
+.experiencias h2 {
+  color: cornsilk;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.contacto {
+  background-color: #381460;
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.contacto p {
+  color: #d49ed4;
+  font-family: "montserrat", sans-serif;
+}
+.contacto .correo {
+  color: #de4c8a;
+  font-family: "lato 300", sans-serif;
+}
+.contacto .boton-enviar {
+  padding-top: 30px;
+}
+
+.mapa {
+  background-color: #d49ed4;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-family: "montserrat", sans-serif;
+}
+
+.pie-pagina {
+  background-color: #de4c8a;
+  width: 100%;
+  display: inline-block;
+}
+.pie-pagina p {
+  font-family: "montserrat", sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */

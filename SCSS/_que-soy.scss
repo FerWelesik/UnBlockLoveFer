@@ -1,0 +1,28 @@
+@import "../SCSS/Estilos/colores" ;
+@import"../SCSS/Estilos/fuentes";
+
+
+.que-soy {
+    background-color: $quesoy;
+    width: 100%;
+    font-size: 2rem;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+    .hola {
+        font-family: $titulos;
+        font-size: 5rem;
+
+    }
+    span {
+        font-size: 6rem;
+        color: burlywood;
+    }
+    .frase {
+        font-family: $titulos;
+        font-size: 4rem;
+    }
+
+   
+
+}

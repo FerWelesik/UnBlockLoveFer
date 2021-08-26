@@ -1,0 +1,19 @@
+@import "../SCSS/Estilos/colores" ;
+@import "../SCSS/Estilos/fuentes" ;
+
+
+
+.encontrar {
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: $encontrar;
+
+    .texto-encontrar {
+        background-color: $texto-encontrar;
+        color: $texto;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 5rem;
+        margin-top: 30px;
+    }
+}

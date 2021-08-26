@@ -1,0 +1,34 @@
+@import "../SCSS/Estilos/colores" ;
+@import "../SCSS/Estilos/fuentes" ;
+
+@mixin padding-contacto ($top, $bottom, $left, $right) {
+    padding-top: $top;
+    padding-bottom: $bottom;
+    padding-left: $left;
+    padding-right: $right;
+    
+}
+
+.contacto {
+    background-color: $header;
+    width: 100%;
+    @include padding-contacto(100px,100px,50px,50px );
+    
+
+    p {
+        color: $encontrar ;
+        font-family: $titulos ;
+    }
+    
+    .correo {
+        color: $experiencias;
+        font-family: $textos;
+    }
+
+    .boton-enviar {
+        padding-top: 30px;
+    }
+
+
+
+}

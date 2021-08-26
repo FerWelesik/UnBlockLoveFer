@@ -1,0 +1,12 @@
+@import "../Estilos/colores" ;
+@import "../Estilos/fuentes" ;
+
+.fondo-header {
+    background-color: $header;
+    font-family: $titulos;
+    .nombre-logo {
+        font-size: 30px;
+        display: inline;
+    }
+
+}

@@ -1,0 +1,9 @@
+@import"../SCSS/Estilos/fuentes";
+@import"../SCSS/Estilos/colores";
+
+.mapa {
+    background-color: $encontrar;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-family: $titulos;
+}

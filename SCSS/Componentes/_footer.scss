@@ -1,0 +1,12 @@
+@import"../Estilos/fuentes";
+@import"../Estilos/colores";
+
+.pie-pagina {
+    background-color: $experiencias;
+    width: 100%;
+    display: inline-block;
+
+    p {
+        font-family: $titulos;
+    }
+}

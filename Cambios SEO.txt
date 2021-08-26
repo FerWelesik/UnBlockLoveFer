@@ -1,0 +1,11 @@
+-Colocación de un nuevo título más adecuado
+-Coloqué un H1 en la página, ya que no contaba con el mismo y fué cerca del inicio del body
+-Ordené los H intentando mantener su jerarquía
+-Meta description con 180 caracteres
+-Meta Key de 19 palabras
+-Meta copy
+-Meta Author
+
+-
+ 
+
