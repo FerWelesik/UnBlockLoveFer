@@ -21,7 +21,7 @@
   font-family: "montserrat", sans-serif;
 }
 .fondo-header .nombre-logo {
-  font-size: 30px;
+  font-size: 1rem;
   display: inline;
 }
 
@@ -35,21 +35,28 @@
 .que-soy {
   background-color: #B21F66;
   width: 100%;
-  font-size: 2rem;
   padding-top: 60px;
   padding-bottom: 60px;
 }
 .que-soy .hola {
   font-family: "montserrat", sans-serif;
-  font-size: 5rem;
+  font-size: 3rem;
+  color: cornsilk;
 }
 .que-soy span {
-  font-size: 6rem;
+  font-size: 4rem;
   color: #31adad;
 }
 .que-soy .frase {
   font-family: "montserrat", sans-serif;
-  font-size: 4rem;
+  font-size: 3rem;
+  color: cornsilk;
+}
+.que-soy .texto-quiensoy {
+  font-family: "lato 300", sans-serif;
+  color: cornsilk;
+  font-size: 1.5rem;
+  padding-top: 50px;
 }
 
 .encontrar {
@@ -62,7 +69,7 @@
   background-color: #bd6bbd;
   color: cornsilk;
   font-family: "Montserrat", sans-serif;
-  font-size: 5rem;
+  font-size: 4rem;
   margin-top: 30px;
 }
 

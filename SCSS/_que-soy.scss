@@ -5,22 +5,29 @@
 .que-soy {
     background-color: $quesoy;
     width: 100%;
-    font-size: 2rem;
     padding-top: 60px;
     padding-bottom: 60px;
 
     .hola {
         font-family: $titulos;
-        font-size: 5rem;
+        font-size: 3rem;
+        color: $texto;
 
     }
     span {
-        font-size: 6rem;
+        font-size: 4rem;
         color: rgb(49, 173, 173);
     }
     .frase {
         font-family: $titulos;
-        font-size: 4rem;
+        font-size: 3rem;
+        color: $texto;
+    }
+    .texto-quiensoy {
+        font-family: $textos;
+        color: $texto;
+        font-size: 1.5rem;
+        padding-top: 50px;
     }
 
    
