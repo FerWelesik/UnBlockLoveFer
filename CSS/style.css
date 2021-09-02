@@ -112,10 +112,23 @@
 .pie-pagina {
   background-color: #de4c8a;
   width: 100%;
-  display: inline-block;
 }
-.pie-pagina p {
+.pie-pagina h3 {
+  background-color: cornflowerblue;
   font-family: "montserrat", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+.pie-pagina .lista-footer {
+  list-style: none;
+  background-color: blue;
+  margin-bottom: 30 px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.pie-pagina .frase-final {
+  background-color: darkcyan;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -4,9 +4,25 @@
 .pie-pagina {
     background-color: $experiencias;
     width: 100%;
-    display: inline-block;
-
-    p {
+    h3 {
+        background-color: cornflowerblue;
         font-family: $titulos;
+        font-size: 40px;
+        font-weight: bold;
     }
+
+
+    .lista-footer {
+        list-style: none;
+        background-color: blue;  
+        margin-bottom: 30   px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .frase-final {
+        background-color: darkcyan;
+        justify-content: center;
+    }
+
 }
