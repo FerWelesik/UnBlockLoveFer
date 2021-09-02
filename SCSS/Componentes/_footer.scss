@@ -5,24 +5,27 @@
     background-color: $experiencias;
     width: 100%;
     h3 {
-        background-color: cornflowerblue;
+        color: cornsilk;
         font-family: $titulos;
-        font-size: 40px;
+        font-size: 50px;
         font-weight: bold;
     }
 
 
     .lista-footer {
         list-style: none;
-        background-color: blue;  
-        margin-bottom: 30   px;
+        margin-bottom: 40px;
         display: flex;
         justify-content: space-evenly;
     }
-
     .frase-final {
-        background-color: darkcyan;
         justify-content: center;
+
+        h5 {
+            font-size: 25px;
+            font-family: $titulos;
+            color: cornsilk;
+        }
     }
 
 }
