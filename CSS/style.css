@@ -72,6 +72,11 @@
   font-size: 4rem;
   margin-top: 30px;
 }
+@media (max-width: 480px) {
+  .encontrar .texto-encontrar {
+    font-size: 3rem;
+  }
+}
 
 .experiencias {
   background-color: #de4c8a;
@@ -95,13 +100,6 @@
 .contacto p {
   color: #d49ed4;
   font-family: "montserrat", sans-serif;
-}
-.contacto .correo {
-  color: #de4c8a;
-  font-family: "lato 300", sans-serif;
-}
-.contacto .boton-enviar {
-  padding-top: 30px;
 }
 
 .mapa {
