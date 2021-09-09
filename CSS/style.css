@@ -32,6 +32,11 @@
   font-family: "Montserrat", sans-serif;
 }
 
+@media (max-width: 480px) {
+  .tu-block {
+    padding-top: 60px;
+  }
+}
 .que-soy {
   background-color: #B21F66;
   width: 100%;
