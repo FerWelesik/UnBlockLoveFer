@@ -1,11 +1,16 @@
 {
-  "name": "desafio-unblock",
+  "name": "UnBlockLove",
   "version": "1.0.0",
-  "description": "",
+  "description": "UnBlockLove es un sitio web que te ayudara a encontrarte",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Fernando Welesik",
+  "email": "fwelesik@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://ferwelesik.github.io/UnBlockLoveFer/"
+  }
 }
