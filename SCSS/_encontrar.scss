@@ -2,19 +2,68 @@
 @import "../SCSS/Estilos/fuentes" ;
 
 
-
 .encontrar {
     width: 100%;
     padding-top: 100px;
     padding-bottom: 100px;
-    background-color: $encontrar;
+    background-color:  #8e44ad ;
 
     .texto-encontrar {
-        background-color: $texto-encontrar;
         color: $texto;
         font-family: 'Montserrat', sans-serif;
-        font-size: 4rem;
-        margin-top: 30px;
+        font-size: 6rem;
+        margin-top: 10px;
+    }
+    span {
+        color:  #13e66b;
+    }
+
+    .card-uno {
+        transition: 1s linear
+    }
+    .card-uno:hover {
+        background-color: rgba(129, 243, 129, 0.933);
+        box-shadow: 0px 10px 10px 7px #27b5e9;
+        
+    }
+    .card-dos {
+        transition: 1s linear
+    }
+    .card-dos:hover {
+        background-color: #79cfee;
+        box-shadow: 0px 10px 10px 7px #27b5e9;
+
+    }
+    .card-tres {
+        transition: 1s linear
+    }
+    .card-tres:hover {
+        background-color: #f28484;
+        box-shadow: 0px 10px 10px 7px #27b5e9;
+
+    }
+    .card-cuatro {
+        transition: 1s linear
+    }
+    .card-cuatro:hover {
+        background-color: #e5e772;
+        box-shadow: 0px 10px 10px 7px #27b5e9;
+
+    }
+    .card-cinco {
+        transition: 1s linear
+    }
+    .card-cinco:hover {
+        background-color: rgba(129, 243, 129, 0.933);
+        box-shadow: 0px 10px 10px 7px #27b5e9;
+    }
+    .card-seis {
+        transition: 1s linear
+    }
+    .card-seis:hover {
+        background-color: #f28484;
+        box-shadow: 0px 10px 10px 7px #27b5e9;
+
     }
 
     @media (max-width: 480px) {
@@ -24,4 +73,4 @@
 
     }
     
-}
+}       

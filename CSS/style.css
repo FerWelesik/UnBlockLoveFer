@@ -1,4 +1,4 @@
-  @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
@@ -21,7 +21,7 @@
   font-family: "montserrat", sans-serif;
 }
 .fondo-header .nombre-logo {
-  font-size: 1rem;
+  font-size: 25px;
   display: inline;
 }
 
@@ -63,19 +63,80 @@
   font-size: 1.5rem;
   padding-top: 50px;
 }
+.que-soy .unblock {
+  font-size: 2rem;
+}
+@media (min-width: 992px) {
+  .que-soy .hola {
+    font-size: 6rem;
+  }
+  .que-soy span {
+    font-size: 7rem;
+  }
+  .que-soy .frase {
+    font-size: 6rem;
+  }
+  .que-soy .texto-quiensoy {
+    font-size: 1.7rem;
+  }
+}
 
 .encontrar {
   width: 100%;
   padding-top: 100px;
   padding-bottom: 100px;
-  background-color: #d49ed4;
+  background-color: #8e44ad;
 }
 .encontrar .texto-encontrar {
-  background-color: #bd6bbd;
   color: cornsilk;
   font-family: "Montserrat", sans-serif;
-  font-size: 4rem;
-  margin-top: 30px;
+  font-size: 6rem;
+  margin-top: 10px;
+}
+.encontrar span {
+  color: #13e66b;
+}
+.encontrar .card-uno {
+  transition: 1s linear;
+}
+.encontrar .card-uno:hover {
+  background-color: rgba(129, 243, 129, 0.933);
+  box-shadow: 0px 10px 10px 7px #27b5e9;
+}
+.encontrar .card-dos {
+  transition: 1s linear;
+}
+.encontrar .card-dos:hover {
+  background-color: #79cfee;
+  box-shadow: 0px 10px 10px 7px #27b5e9;
+}
+.encontrar .card-tres {
+  transition: 1s linear;
+}
+.encontrar .card-tres:hover {
+  background-color: #f28484;
+  box-shadow: 0px 10px 10px 7px #27b5e9;
+}
+.encontrar .card-cuatro {
+  transition: 1s linear;
+}
+.encontrar .card-cuatro:hover {
+  background-color: #e5e772;
+  box-shadow: 0px 10px 10px 7px #27b5e9;
+}
+.encontrar .card-cinco {
+  transition: 1s linear;
+}
+.encontrar .card-cinco:hover {
+  background-color: rgba(129, 243, 129, 0.933);
+  box-shadow: 0px 10px 10px 7px #27b5e9;
+}
+.encontrar .card-seis {
+  transition: 1s linear;
+}
+.encontrar .card-seis:hover {
+  background-color: #f28484;
+  box-shadow: 0px 10px 10px 7px #27b5e9;
 }
 @media (max-width: 480px) {
   .encontrar .texto-encontrar {
@@ -85,8 +146,8 @@
 
 .experiencias {
   background-color: #de4c8a;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 110px;
+  padding-bottom: 110px;
 }
 .experiencias h2 {
   color: cornsilk;
@@ -97,7 +158,7 @@
 .contacto {
   background-color: #381460;
   width: 100%;
-  padding-top: 100px;
+  padding-top: 60px;
   padding-bottom: 100px;
   padding-left: 50px;
   padding-right: 50px;

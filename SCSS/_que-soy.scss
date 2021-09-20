@@ -29,6 +29,25 @@
         font-size: 1.5rem;
         padding-top: 50px;
     }
+    .unblock {
+        font-size: 2rem;
+    }
+
+    @media (min-width: 992px) {
+        .hola {
+            font-size: 6rem;
+        }
+        span {
+            font-size: 7rem;
+        }
+        .frase {
+            font-size: 6rem;
+        }
+        .texto-quiensoy {
+            font-size: 1.7rem;
+        }
+
+    }
 
    
 
